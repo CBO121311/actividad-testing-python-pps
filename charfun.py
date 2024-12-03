@@ -31,7 +31,6 @@ def main():
     """
     Función que solicita al usuario cadenas de texto y comprueba si son palíndromas, 
     hasta que el usuario escriba 'salir'.
-    Alejandro López Calderón
     """
     salir = False
 
